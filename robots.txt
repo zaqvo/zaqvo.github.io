@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zaqvo.github.io/WIN/sitemap.WIN.gz
